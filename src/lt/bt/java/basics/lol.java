@@ -1,4 +1,4 @@
 package lt.bt.java.basics;
 
-public class lol {
+public class lol1 {
 }
