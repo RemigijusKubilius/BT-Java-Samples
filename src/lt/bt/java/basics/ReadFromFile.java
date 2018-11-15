@@ -8,7 +8,7 @@ import java.io.IOException;
 public class ReadFromFile {
 
 	public static void main(String[] args) throws IOException {
-		String filePath = "res\\txt\\demo\\sample1.txt";
+		String filePath = "C:\\xampp\\htdocs\\Github\\ClassWork\\BT-Java-Samples\\res\\txt\\demo\\sample1.txt";
 		File file = new File(filePath);
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String st;
